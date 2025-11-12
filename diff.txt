@@ -1,0 +1,7 @@
+diff --git a/config.txt b/config.txt
+index d849618..7167e61 100644
+--- a/config.txt
++++ b/config.txt
+@@ -1 +1,2 @@
+ кронва 5
++кронва
