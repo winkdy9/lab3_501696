@@ -1,0 +1,19 @@
+*   c1a5d77 Merge branch 'feature2'
+|\  
+| * 134eb00 feature2 change
+* |   b81c4d8 Merge branch 'feature1'
+|\ \  
+| * | a6315ba feature1 change
+| |/  
+| | * 6c57423 Добавление 'diff.txt' с разницей между коммитами
+| |/  
+|/|   
+* | 2481519 Добавление строки 'не кронва'
+* | 910a584 Добавление строки
+|/  
+* b7b17d0 add config.txt 5
+* 008d1b8 add config.txt 4
+* 3935d6b add config.txt 3
+* c915e6c add config.txt 2
+* f3aff5e add config.txt 1
+* d57e0aa init
